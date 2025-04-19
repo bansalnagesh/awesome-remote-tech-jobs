@@ -6,25 +6,25 @@ A curated list of the best remote tech jobs from around the world, updated daily
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Company | Senior Director, Head of SOX | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/6fb99e85610041d19f4e4c84ab262dee?utm=github) |
-| Sprout.ai | Implementation Consultant, Japan | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/b7f1036dd6454abdac98c726799b8f82?utm=github) |
-| Unilever | Commercial Customer Experience Specialist | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/d028806558504bda86778a61399c2720?utm=github) |
-| Vaco by Highspring | Software Engineer I | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/4704bd2dfb654f0db936bd5a72884ad2?utm=github) |
-| Ottomatik.io | Junior Web Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/ab72018dc45d4ef883e509540dad736e?utm=github) |
-| Ottomatik.io | Junior Web Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/626d5bd1ca2146d6896446235d9bcea8?utm=github) |
-| Jackbox Games | Front-End Engineer (1-3 YoE) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/a6841dd998e2465b9ea07baa161d59ad?utm=github) |
-| La Fosse | Junior Frontend Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/f491ce34aaed449294a072da6932b992?utm=github) |
-| So Talent | Software Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/2766df7a30564fb89c4a7eaeeea7e4c7?utm=github) |
-| Ottomatik.io | Junior Web Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/c65fc86488e8470dba09317811b56273?utm=github) |
-| Esprimo S.r.l. | Python Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/a7fe6fae160446d393b8074531ae99d5?utm=github) |
-| Insight Global | Data Engineer 💰 | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/b500ffbc48794d5889296e2072079198?utm=github) |
-| Visionary Innovative Technology Solutions LLC | Data brick Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/ba0c682e1cd341c98ff338b8e75595db?utm=github) |
-| knowmad mood | Data Engineer (freelance) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0cdb323ca1074db2b357afe06ed286c5?utm=github) |
-| SPECTRAFORCE | Data Analyst | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/dff87087a6a14a77ba863ad556771803?utm=github) |
+| Bestow | Manager, Security Governance | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/e2af3b1dd78246bfb0cc866e9fbd247e?utm=github) |
+| Bestow | Engineering Director | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/d32f381c24ec4bf6b197ae9725b2e226?utm=github) |
+| Deel |  DevOps Engineer | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/fa956847db6d49e8bddbac94a0f5f85c?utm=github) |
+| Deel | Account Executive, Mid-Market \| France | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/dd82ec8c7b474241baf9fe34cdb63a31?utm=github) |
+| Company | Position | 🌐 Remote (EMEA) | Apr 17 | [Apply](https://starjobs.dev/jobs/78c30faffcc447fda7d7d16cd287c291?utm=github) |
+| Threecolts | Threecolts - VP of Engineering | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/05116f7bd060406585db0c719568c0ba?utm=github) |
+| Bestow | Senior Product Manager - Identity Access Management (IAM) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/e9729f49d90e4d3f8f0659b00e044368?utm=github) |
+| ABOUT YOU SE & Co. KG | Head-of Engineering (m/f/d) - Supply Tech - onsite or remote within Germany | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/256e639d561b4641a75cf8655cf740dd?utm=github) |
+| Company | Position | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/e19f30080d0e4bb0b528ed72165bb7b3?utm=github) |
+| Company | Position | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/91899019dea246a698ae497aba066663?utm=github) |
+| Deel | Benefits Specialist, PEO \| US | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/b1de2b66d152406bbe78f1b71cc19dc3?utm=github) |
+| Deel | Reconciliation Specialist, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/cb29c33c19d94feb825a1f84399a6784?utm=github) |
+| Deel | Payroll Expert \| Luxembourg | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/ef477d46b6c44b0894924824c87d6391?utm=github) |
+| Deel | Manager, Benefits Implementation, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/6d45bab42325447fa0abaab4091d4adc?utm=github) |
+| Deel | Legal Counsel, Employment Law I Costa Rica  | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/d30faa56a1674118b092c59fe48ade44?utm=github) |
 
 
 ## About This List
@@ -37,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
 * [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
